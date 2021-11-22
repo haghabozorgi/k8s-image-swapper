@@ -7,10 +7,8 @@ require (
 	github.com/aws/aws-sdk-go v1.40.54
 	github.com/bits-and-blooms/bitset v1.2.1 // indirect
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
-	github.com/containerd/containerd v1.5.5 // indirect
-	github.com/containers/image/v5 v5.16.0
+	github.com/containers/image/v5 v5.17.0
 	github.com/containers/libtrust v0.0.0-20200511145503-9c3a6c22cd9a // indirect
-	github.com/containers/storage v1.36.0 // indirect
 	github.com/dgraph-io/ristretto v0.1.0
 	github.com/evanphx/json-patch v4.11.0+incompatible
 	github.com/go-co-op/gocron v1.9.0
@@ -35,10 +33,7 @@ require (
 	github.com/spf13/viper v1.9.0
 	github.com/stretchr/objx v0.3.0 // indirect
 	github.com/stretchr/testify v1.7.0
-	golang.org/x/net v0.0.0-20210928044308-7d9f5e0b762b // indirect
-	golang.org/x/sys v0.0.0-20210927094055-39ccf1dd6fa6 // indirect
 	golang.org/x/text v0.3.7 // indirect
-	google.golang.org/genproto v0.0.0-20210927142257-433400c27d05 // indirect
 	google.golang.org/grpc v1.41.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.22.2
